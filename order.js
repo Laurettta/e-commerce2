@@ -1,1 +1,1 @@
-console.log("this is order page")
+console.log("order page")
