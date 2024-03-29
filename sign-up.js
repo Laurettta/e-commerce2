@@ -1,1 +1,1 @@
-console.log("this is is a sign-up page")
+console.log("this is a sign-up page")
